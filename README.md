@@ -1,4 +1,4 @@
-### Projects / Experimentations
+## Projects / Experimentations
 #### This repository belongs to Vaidehi Joshi (Masters in ECE @ Carnegie Mellon University) | vaidehij@andrew.cmu.edu
 
 1) STEALTH :  Public repository for the Final project of the course Introduction to Deep Learning (11-785). 
