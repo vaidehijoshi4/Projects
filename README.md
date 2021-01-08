@@ -1,5 +1,5 @@
 ## Projects / Experimentations
-#### This repository belongs to Vaidehi Joshi (Masters in ECE @ Carnegie Mellon University) | vaidehij@andrew.cmu.edu
+### This repository belongs to Vaidehi Joshi (Masters in ECE @ Carnegie Mellon University) | vaidehij@andrew.cmu.edu
 
 #### The contents of the repository are as follows:
 
