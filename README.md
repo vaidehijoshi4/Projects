@@ -1,5 +1,9 @@
 ## Projects / Experimentations
 #### This repository belongs to Vaidehi Joshi (Masters in ECE @ Carnegie Mellon University) | vaidehij@andrew.cmu.edu
 
-1) STEALTH :  Public repository for the Final project of the course Introduction to Deep Learning (11-785). 
-              This project is about Stereo Analysis using Low Texture Thermal Images. Many neural network architectures were implemented for the stereo disparity                 estimation in Thermal/IR images. Thermal images are robust to fog, ambient illumination and glare due to incoming car headlights. Hence using IR                     images over RGB images in an autonomous driving setting proves to be helpful in such scenarios. Here we tested many architectures out of which, a                   modified Pyramidal Stereo Matching (PSM) Network with a super resolution block and Contrast Limited Adaptive histogram equalization preprocessing                   proved to be the most effective on the CATS IR image dataset. A brief explanation and necessary code can be found in the repository.
+#### The contents of the repository are as follows:
+
+
+##### 1. STEALTH (Stereo Analysis from Low texture Thermal Images)
+This is the final project for the course Introduction to Deep Learning (11-785). This submodule will direct to the repository of the project.
+We experimented with various neural network architectures to estimate Stereo disparity for an Autonomous driving setting based on IR images; out of all the architectures implemented, a modified Pyramidal Stereo Matching Network (PSMNet) along with a super resolution block and Contrast Limited Adaptive Histogram equalization preprocessing, proved to be the most effective. More details about the implementation and the code can be found on the project repository.
